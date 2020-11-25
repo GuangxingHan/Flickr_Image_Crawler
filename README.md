@@ -1,2 +1,13 @@
 # Flickr_Image_Downloader
-An easy-to-use tool to download Flickr images.
+A tool to download Flickr images
+
+The tool supports downloading image urls of all galleries from a flickr user, and provides a simple BoW based text-matching method for matching flickr image titles/desscriptions to pre-defined database.
+
+The code is used to build an artwork dataset for instance-level recognition. For more details, please visit https://ilr-workshop.github.io/ECCVW2020/
+
+
+## Special Thanks
+
+[Python Flickr API](https://github.com/alexis-mignon/python-flickr-api) are used to build our Flickr crawler.
+
+NLTK and [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) are used for text preprocessing.
