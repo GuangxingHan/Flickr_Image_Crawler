@@ -1,5 +1,5 @@
-# Flickr_Image_Downloader
-A tool to download Flickr images
+# Flickr_Image_Crawler
+A tool to crawl Flickr images
 
 The tool supports downloading image urls of all galleries from a flickr user, and provides a simple BoW based text-matching method for matching flickr image titles/desscriptions to a pre-defined database.
 
