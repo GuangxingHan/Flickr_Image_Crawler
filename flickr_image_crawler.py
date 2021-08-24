@@ -18,7 +18,7 @@ import flickr_api as f
 import csv
 import argparse
 
-parser = argparse.ArgumentParser(description='Flickr_Image_Downloader')
+parser = argparse.ArgumentParser(description='Flickr_Image_Crawler')
 parser.add_argument('--part_id', type=int, default=0, help='part_id')
 
 args = parser.parse_args()
