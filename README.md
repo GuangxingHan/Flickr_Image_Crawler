@@ -8,6 +8,6 @@ The code is used to build an artwork dataset for instance-level recognition. For
 
 ## Special Thanks
 
-[Python Flickr API](https://github.com/alexis-mignon/python-flickr-api) is used to build our Flickr downloader.
+[Python Flickr API](https://github.com/alexis-mignon/python-flickr-api) is used to build our Flickr Crawler.
 
 NLTK and [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) are used for text preprocessing.
